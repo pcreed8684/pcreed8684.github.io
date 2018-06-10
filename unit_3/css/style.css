@@ -1,0 +1,16 @@
+body {
+	background: #EEE;
+}
+
+h1{
+	background: #FFF;
+}
+
+.slogan{
+	font-style: italic;
+}
+
+ul{
+	background: #EEE;
+	text-indent: 20%;
+}
