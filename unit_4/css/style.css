@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One|Teko');
+
 body {
 	background: #EEE;
 }
 
 h1{
 	background: #FFF;
+	font-family: 'Teko', cursive;
+}
+
+p{
+	font-family: 'Patua' cursive;
 }
 
 .slogan{
