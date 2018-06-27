@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Patua+One|Teko');
+*{margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 
 body {
 	background: #EEE;
+	font-family: 'Patua One', cursive;
 }
 
 h1{
@@ -10,9 +15,6 @@ h1{
 	font-size: 24px
 }
 
-p{
-	font-family: 'Patua' cursive;
-}
 
 .slogan{
 	font-style: italic;
