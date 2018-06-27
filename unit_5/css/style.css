@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One|Teko');
+*{margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #EEE;
+	font-family: 'Patua One', cursive;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	background: #FFF;
+	font-family: 'Teko', cursive;
+	font-size: 24px
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+
+.slogan{
+	font-style: italic;
+}
+
+ul{
+	background: #EEE;
+}
+
+.contact{
+	font-weight: bold;
+}
+
+footer {
+	background-color: #FF957E
+	border: 1px black solid;
+	padding: 20px;
+}
