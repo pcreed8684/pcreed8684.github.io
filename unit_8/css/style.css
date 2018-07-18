@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+*{margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 66%;
+	display: block;
+	background: #EEE;
+	font-family: 'Dosis', sans-serif;
+	font-size: 14
+}
+header {
+	background-color: #FFF
+	border-bottom: 10px black solid;
+	padding: 20px;
+	width: 100%;
+	float: none;
+	min-height: 150px;
+}
+
+h1 {
+	background: #FFF;
+	font-family: 'Dosis', sans-serif;
+	font-size: 24px
+}
+h2 {
+	background: #FFF;
+	font-family: 'Dosis', sans-serif;
+	font-size: 18px
+}
+h3 {
+background: #FFF;
+	font-family: 'Dosis', sans-serif;
+	font-size: 16px
+}
+nav {
+	background-color: #d1d1d1;
+	border: 1px black solid;
+	padding: 20px;
+	float: none;
+}
+.maincontainer {
+background: rgba(0, 0, 0, 0.5);
+width: 960px;
+margin: -85px auto -70px;
+clear: both;
+display: block;
+padding: 10px;
+max-width: 96%;
+position: relative;
+}
+#page {
+	background: #FFF;
+	padding-top: 25px;
+	min-height: 100px;
+	float: none;
+	clear: both;
+	max-width: 960px;
+	min-width: 240px;
+	position: relative;
+	margin-right: auto;
+}
+.article {
+width: 61.4%;
+float: left;
+margin-bottom: 10px;
+padding: 0 3% 0 2%;
+display: block;
+}
+#content_box {
+	float: left;
+	width: 100%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.slogan {
+	font-style: italic;
+}
+
+ul{
+	background: #EEE;
+}
+aside {
+	width: 31.3%;
+	float: right;
+	max-width: 300px
+	padding-right: 2%;
+	line-height: 20px;
+	display: block;
+}
+
+.contact{
+	font-weight: bold;
+}
+
+footer {
+	background-color: #FF957E
+	border: 1px black solid;
+	padding: 20px;
+}
